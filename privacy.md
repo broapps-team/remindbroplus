@@ -30,4 +30,4 @@ We use industry-standard measures to protect information. No method of transmiss
 We may update this policy from time to time. We’ll post updates here and revise the Effective Date.
 
 **Contact**  
-Questions? Email us at **[support email]**.
+Questions? Email us at [broapps.team@gmail.com](mailto:broapps.team@gmail.com).
